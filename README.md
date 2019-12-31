@@ -18,8 +18,8 @@ B) Can apply for minimum spanning tree algorithms
 Can find bridges on the graph
 
 
-Will apply for eulerian and hamiltonian path finding algorithms
-1.Fleury's algorithm (Still working on it)
-2.The nearest neighbour algorithm (Still working on it)
+Will apply for eulerian and hamiltonian path finding algorithms  
+1.Fleury's algorithm (Still working on it)  
+2.The nearest neighbour algorithm (Still working on it)  
 
 ![alt text](resource/graph_solver_ss.png)
