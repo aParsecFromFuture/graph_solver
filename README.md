@@ -25,6 +25,7 @@ Will apply for eulerian and hamiltonian path finding algorithms
 What can't it do  
 1.Doesn't support directed graphs  
 2.Does support only one letter labels (not numerics or words)  
-2.Doesn't support graphs that has degree of 53 or greater (Labeling problem)  
+3.Doesn't support graphs that has degree of 53 or greater (Labeling problem)  
+4.Doesn't support edge weight greater than 9 (I will certainly handle it)
 
 ![alt text](resource/graph_solver_ss.png)
